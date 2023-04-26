@@ -1,0 +1,2 @@
+include src/nautilus/method/gps.tle
+include src/nautilus/method/water_map.png
