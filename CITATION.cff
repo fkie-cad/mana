@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Spravil"
+  given-names: "Julian"
+- family-names: "Hemminghaus"
+  given-names: "Christian"  
+- family-names: "von Rechenberg"
+  given-names: "Merlin"
+  orcid: "https://orcid.org/0000-0002-9080-4509"
+- family-names: "Padilla"
+  given-names: "Elmar"
+- family-names: "Bauer"
+  given-names: "Jan"
+  orcid: "https://orcid.org/0000-0001-7631-6456"
+title: "MANA: Maritime NMEA-based Anomaly Detection"
+doi: 10.3390/jmse11050928
+date-released: 2023-04-26
+url: "https://www.mdpi.com/2077-1312/11/5/928"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Spravil"
+    given-names: "Julian"
+  - family-names: "Hemminghaus"
+    given-names: "Christian"  
+  - family-names: "von Rechenberg"
+    given-names: "Merlin"
+    orcid: "https://orcid.org/0000-0002-9080-4509"
+  - family-names: "Padilla"
+    given-names: "Elmar"
+  - family-names: "Bauer"
+    given-names: "Jan"
+    orcid: "https://orcid.org/0000-0001-7631-6456"
+  doi: 10.3390/jmse11050928
+  journal: "Journal of Marine Science and Engineering. Special Issue: Maritime Security and Risk Assessments"
+  month: 4
+  volume: 11
+  issue: 5
+  title: "Detecting Maritime GPS Spoofing Attacks Based on NMEA Sentence Integrity Monitoring"
+  year: 2023
+
