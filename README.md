@@ -4,7 +4,7 @@ By Julian Spravil, Christian Hemminghaus, Merlin von Rechenberg, Elmar Padilla, 
 
 Official implementation of **[Detecting Maritime GPS Spoofing Attacks Based on NMEA Sentence Integrity Monitoring](https://www.mdpi.com/2077-1312/11/5/928)** (DOI 10.3390/jmse11050928).
 
-The **MARSIM dataset** can be found under `dataset/marsim_dataset.tar.bz2`.
+The **MARSIM dataset** can be found at zenodo.org:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8202802.svg)](https://doi.org/10.5281/zenodo.8202802)
 
 > **Abstract**
 > 
@@ -17,7 +17,7 @@ The code is tested with Python 3.8. The required packages can be installed with 
 python setup.py install
 ```
 
-To run our examples, the MARSIM Dataset `dataset/marsim_dataset.tar.bz2` needs to be installed. Extract the dataset and place the files into the relative directory ```data/dataset/```. For more details, view the [dataset README](README_MARSIM.md).
+To run our examples, the MARSIM Dataset `marsim_dataset.tar.bz2` needs to downloaded from [zenodo](https://doi.org/10.5281/zenodo.8202802). Extract the dataset and place the files into the relative directory ```data/dataset/```. For more details, view the [dataset README](README_MARSIM.md).
 
 ## Examples
 
